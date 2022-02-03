@@ -167,6 +167,7 @@ var Configuration = map[string]PathConfig{
 	"aarch64-linux-android-strings":      Allowed,
 	"aarch64-linux-android-strip":        Allowed,
 	"aarch64-linux-gnu-as":               Allowed,
+	"aarch64-linux-gnu-ld": 			  Allowed,
 	"arm-linux-androideabi-addr2line":    Allowed,
 	"arm-linux-androideabi-ar":           Allowed,
 	"arm-linux-androideabi-as":           Allowed,
