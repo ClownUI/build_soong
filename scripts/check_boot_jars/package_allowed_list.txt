@@ -273,6 +273,10 @@ org\.codeaurora\.internal.*
 org\.ifaa\.android\.manager.*
 
 ###################################################
+# Lineage adds
+vendor\.lineage.*
+
+###################################################
 # NV adds
 com\.nvidia
 com\.nvidia\..*
